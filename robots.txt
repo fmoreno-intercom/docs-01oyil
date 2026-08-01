@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-22boid.bobatoto11erd.cfd/sitemap.xml
